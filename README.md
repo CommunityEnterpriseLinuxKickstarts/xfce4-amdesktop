@@ -41,12 +41,17 @@ Pre-configured accounts:
 	*mythtv has full sudo power for root
 	Password for the live user(mythtv)=mythtv
 	*sshd disabled by default and blocked from mythtv user, 
-	to change; reset mythtv password with terminal:
+	to change;
+	<h1><b>DO NOT SKIP THIS STEP OR YOUR BOX WILL BE INSECURE if YOU OPEN SSHD!</b></h1>
+	reset mythtv password with terminal:
 
 		passwd mythtv
 
 	then remove entry "DenyUsers mythtv" from /etc/ssh/sshd_config
-
+	and run:
+			systemctl daemon-reload
+			systemctl enable sshd
+			systemctl start sshd
 
 *Note using this frontend image with automythserver requires a configured VPN server. 
 Configure (generate keys/certs as needed) your automythserver vpn prior to attempting to connect.
