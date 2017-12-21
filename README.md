@@ -42,11 +42,15 @@ Pre-configured accounts:
 	Password for the live user(mythtv)=mythtv
 	*sshd disabled by default and blocked from mythtv user, 
 	to change;
-	DO NOT SKIP THIS STEP OR YOUR BOX WILL BE INSECURE if YOU ENABLE SSHD!
-	reset mythtv password with terminal:
+	***DO NOT SKIP THIS STEP OR YOUR BOX WILL BE INSECURE!***
+	Change the shell account mythtv password with a terminal:
 
 		passwd mythtv
 
+        *Enter you new password and confirm.
+
+	***DO NOT PROCEED UNLESS YOU HAVE CHANGED THE MYTHTV SHELL ACCOUNT PASSWORD FIRST!****
+	
 	then remove entry "DenyUsers mythtv" from /etc/ssh/sshd_config
 	and run:
 			systemctl daemon-reload
