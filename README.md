@@ -4,7 +4,7 @@ Build Codenamed:  "XMasGift2Too"
 
 Xfce4 Desktop OS LiveImage/Installer with Mythtv Frontend 0.28.1 / OpenVPN Client
 
-*This frontend client was intented to be used with a Automythserver running OpenVPN, but it will work fine as a traditional mythfrontend client as well.
+*This frontend client was intended to be used with a Automythserver running OpenVPN, but it will work fine as a traditional mythfrontend client as well.
 
 
 
