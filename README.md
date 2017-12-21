@@ -57,7 +57,7 @@ Pre-configured accounts:
 			systemctl enable sshd
 			systemctl start sshd
 
-*Note using this frontend image with automythserver requires a configured VPN server. 
+*Note using this frontend image with automythserver typically requires a configured VPN server. 
 Configure (generate keys/certs as needed) your automythserver vpn prior to attempting to connect.
 The next release is slated to have static example certs installed between server and this client.
 
