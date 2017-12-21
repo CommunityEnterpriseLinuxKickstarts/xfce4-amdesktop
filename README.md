@@ -1,5 +1,7 @@
 # automythdesktop
 Xfce4 Desktop OS LiveImage/Installer with Mythtv Frontend 0.28.1 / OpenVPN Client
+*This frontend client was intented to be used with a Automythserver running OpenVPN, but it will work fine as a traditional
+mythfrontend client as well.
 
 
 
@@ -50,6 +52,4 @@ then remove entry "DenyUsers mythtv" from /etc/ssh/sshd_config
 *Note using this frontend image with automythserver requires a configured VPN server. 
 Configure (generate keys/certs as needed) your automythserver vpn prior to attempting to connect.
 The next release is slated to have static example certs installed between server and this client.
-
-Connecting to a traditional mythbackend server should work as well.
 
