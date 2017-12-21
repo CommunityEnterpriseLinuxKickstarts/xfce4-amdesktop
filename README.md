@@ -1,16 +1,14 @@
 # automythdesktop
 Xfce4 Desktop OS LiveImage/Installer with Mythtv Frontend 0.28.1 / OpenVPN Client
-
 *This frontend client was intented to be used with a Automythserver running OpenVPN, but it will work fine as a traditional
 mythfrontend client as well.
 
 
-
-
-
-
 Welcome to Automyth Desktop Mythfrontend VPN client example!
 Build Codenamed:  "XMasGift2Too"
+
+
+
 Requirements:
 
 	Automythserver or mythtv-0.28 server,
@@ -37,7 +35,7 @@ Software Environment:
 	kvm & virt-manager
 	and other programs I've found useful for Desktop.
 
-#pre-configured accounts
+Pre-configured accounts:
 
 	Password for root is NOT SET
 	*mythtv has full sudo power for root
