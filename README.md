@@ -42,7 +42,7 @@ Pre-configured accounts:
 	Password for the live user(mythtv)=mythtv
 	*sshd disabled by default and blocked from mythtv user, 
 	to change;
-	<h1><b>DO NOT SKIP THIS STEP OR YOUR BOX WILL BE INSECURE if YOU OPEN SSHD!</b></h1>
+	DO NOT SKIP THIS STEP OR YOUR BOX WILL BE INSECURE if YOU ENABLE SSHD!
 	reset mythtv password with terminal:
 
 		passwd mythtv
