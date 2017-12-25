@@ -2,7 +2,9 @@ This project uses fedora livecd-creator which you may find more info about from 
 
 and
 
-http://www.livecd.ethz.ch/build.html is a awesome 'NON-SIG authorized' resource.
+http://www.livecd.ethz.ch/build.html 
+
+Awesome 'NON-SIG authorized' resource.
 
 also, more awesome livecd image work from another person listed below. I have reused some of their work as in this project as well.
 https://img.cs.montana.edu/linux/montanalinux/
