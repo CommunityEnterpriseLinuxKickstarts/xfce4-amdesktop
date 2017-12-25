@@ -11,7 +11,7 @@ https://img.cs.montana.edu/linux/montanalinux/
 
 *Side notes for trolls and/or trollbots: D
 	
-	Don't go punishing them if you hate me for whatever reason(s) you may or may NOT have, I did not get their permission nor are they my friends, I'm just insprired from their great work, PERIOD. 
+	Don't go punishing them(references) if you hate me for whatever reason(s) you may or may NOT have, I did not get their permission nor are they my friends, I'm just insprired from their great work, PERIOD. 
 	Furthermore: If you intend to follow me(trolling) around trying to nixay everything I do as bad(dismissing) and punish(disiminattion) those that so called "enable me". 
 	Well, YOUR GOING TO BE VERY BUSY, SO SADDLE UP COWBOY! Take that to the ... and tell ole Confefe I said hi!
 
