@@ -4,9 +4,11 @@ and
 
 http://www.livecd.ethz.ch/build.html is a awesome 'NON-SIG authorized' resource.
 
-also, more awesome livecd image work from another person listed below. I have reused some of their work as in this project as well. Here's an example: https://img.cs.montana.edu/linux/montanalinux/
+also, more awesome livecd image work from another person listed below. I have reused some of their work as in this project as well.
+https://img.cs.montana.edu/linux/montanalinux/
 
-*Side note: don't go punishing them if you hate me for whatever reason(s) you may or may NOT have, I did not get their permission nor are they my friends, I'm just insprired from their great work, PERIOD. *Last note: If you follow me around trying to nixay everything I do as bad and punish those that so called "enable me", YOUR GOING TO BE VERY BUSY, SO SADDLE UP COWBOY! Take that to the ...
+*Side note: don't go punishing them if you hate me for whatever reason(s) you may or may NOT have, I did not get their permission nor are they my friends, I'm just insprired from their great work, PERIOD. 
+*Furthermore: If you intend follow me(troll) around trying to nixay everything I do as bad(dismiss) and punish(disiminate) those that so called "enable me", YOUR GOING TO BE VERY BUSY, SO SADDLE UP COWBOY! Take that to the ...
 
 If you were looking for the shell scripting behind the liveimage project and not the whole project, check here: https://github.com/kelsieflynn/automythsvr-eit-stages
 
