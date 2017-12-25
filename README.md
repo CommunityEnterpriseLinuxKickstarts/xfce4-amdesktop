@@ -1,3 +1,19 @@
+This project uses fedora livecd-creator which you may find more info about from link below and elsewhere. https://fedoraproject.org/wiki/How_to_create_and_use_a_Live_CD
+
+and
+
+http://www.livecd.ethz.ch/build.html is a awesome 'NON-SIG authorized' resource.
+
+also, more awesome livecd image work from another person listed below. I have reused some of their work as in this project as well. Here's an example: https://img.cs.montana.edu/linux/montanalinux/
+
+*Side note: don't go punishing them if you hate me for whatever reason(s) you may or may NOT have, I did not get their permission nor are they my friends, I'm just insprired from their great work, PERIOD. *Last note: If you follow me around trying to nixay everything I do as bad and punish those that so called "enable me", YOUR GOING TO BE VERY BUSY, SO SADDLE UP COWBOY! Take that to the ...
+
+If you were looking for the shell scripting behind the liveimage project and not the whole project, check here: https://github.com/kelsieflynn/automythsvr-eit-stages
+
+Below is the readme from (SF, where you can download the ISOs, for now) *Note: Any references to "we" in my work are wishful future thinking at this time, I did not plan to release this under my name at first. Then I changed my mind after much thought.
+
+***
+
 Welcome to Automyth Desktop Mythfrontend VPN client example!
 
 Build Codenamed:  "XMasGift2Too"
