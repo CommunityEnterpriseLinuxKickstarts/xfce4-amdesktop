@@ -4,7 +4,7 @@ nextBUILD=$((++BUILD))
 DATESTAMP=`date +%Y%m%d`
 NAME=automythdesktop
 MYTHVER=0.28.1
-MYTHGITREL=62-g36f
+MYTHGITREL=62-g36
 
 if [ ! -d ./LOGS ];then
 mkdir -v ./LOGS
