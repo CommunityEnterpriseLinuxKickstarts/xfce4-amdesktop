@@ -25,9 +25,9 @@ Welcome to Automyth Desktop Mythfrontend VPN client example!
 
 Build Codenamed:  "XMasGift2Too"
 
-Xfce4 Desktop OS LiveImage/Installer with Mythtv Frontend 0.28.1 / OpenVPN Client
+Xfce4 Desktop OS LiveImage/Installer with Mythtv 0.28.1 / OpenVPN Client
 
-*This frontend client was intended to be used with a Automythserver running OpenVPN, but it will work fine as a traditional mythfrontend client as well.
+*This frontend client was intended to be used with a Automythserver running OpenVPN, but it will work fine as a traditional mythfrontend client/mythtv-backend server as well.
 
 
 
@@ -36,7 +36,6 @@ Xfce4 Desktop OS LiveImage/Installer with Mythtv Frontend 0.28.1 / OpenVPN Clien
 
 Requirements:
 
-	Automythserver or mythtv-0.28 server,
 	x86_64 Compatible Computer:
 	Wired/Wireless Capable
 	Minimum 1G Ram recommended
@@ -47,7 +46,7 @@ Software Environment:
 	Enterprise Linux 7.4
 	Configured with software from repos:
 	epel, elrepo, rpmfusion and automyth_repo
-	mythtv-frontend-0.28.1 g36fe0ce  *reworked from rpmfusion version
+	mythtv-0.28.1 g36fe0ce  *reworked from rpmfusion version
 
 	mythplugins: 
 	mytharchive,mythmusic,mythgallery,mythzoneminder
