@@ -1,10 +1,5 @@
 #automythdesktop changelog
 
-r12 Dec-31-2017
-
--Added all (repo available) networkmanager/vpn plugins
-
-
 r11 Dec-30-2017
 - updated createNew*image.sh ISO script to use /tmp/TMPDIR for livecd-creator --tmpdir
 - added cleanup options to ISO  script
