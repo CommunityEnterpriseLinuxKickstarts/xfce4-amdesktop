@@ -2,18 +2,9 @@ This project uses fedora livecd-creator which you may find more info about from 
 
 and
 
-http://www.livecd.ethz.ch/build.html 
+http://www.livecd.ethz.ch/build.html Great Resource for basic livecd building
 
-Awesome 'NON-SIG authorized' resource.
-
-also, more awesome livecd image work from another person listed below. I have reused some of their work as in this project as well.
-https://img.cs.montana.edu/linux/montanalinux/
-
-*Side notes for trolls and/or trollbots: D
-	
-	Don't go punishing them(references) if you hate me for whatever reason(s) you may or may NOT have, I did not get their permission nor are they my friends, I'm just insprired from their great work, PERIOD. 
-	Furthermore: If you intend to follow me(trolling) around trying to nixay everything I do as bad(dismissing) and punish(disiminattion) those that so called "enable me". 
-	Well, YOUR GOING TO BE VERY BUSY, SO SADDLE UP COWBOY! Take that to the ... and tell ole Confefe I said hi!
+https://img.cs.montana.edu/linux/montanalinux/ Great examples for modification and customization.
 
 If you were looking for the shell scripting behind the liveimage project and not the whole project, check here: https://github.com/kelsieflynn/automythsvr-eit-stages
 
