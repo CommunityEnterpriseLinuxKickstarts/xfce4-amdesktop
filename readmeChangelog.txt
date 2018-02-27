@@ -1,5 +1,22 @@
 #automythdesktop changelog
 
+r13 Jan-18-2018
+- Sync with upstream sl repo:
+	- Red Hat Security Advisory updates for microcode,firmware,java
+	- Advisory URLs: 
+	- https://access.redhat.com/errata/RHSA-2018:0093
+	- https://access.redhat.com/errata/RHSA-2018:0094
+	- https://access.redhat.com/errata/RHSA-2018:0095
+
+
+
+r12 Jan-08-2018
+-- Sync with upstream repos to update kernel/kernel-lt for vulnerabilities: Meltdown & Spectre
+- kernel-lt-4.4.110-1
+- kernel-3.10.0-693.11.6
+- Added all (repo available) networkmanager/vpn plugins
+
+
 r11 Dec-30-2017
 - updated createNew*image.sh ISO script to use /tmp/TMPDIR for livecd-creator --tmpdir
 - added cleanup options to ISO  script
