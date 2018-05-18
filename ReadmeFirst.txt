@@ -1,4 +1,6 @@
-Welcome to Automyth Desktop Mythfrontend VPN client example!
+Welcome to Xfce4-AMDesktop
+aka automyth-desktop
+
 Build Codenamed:  "XMasGift2Too"
 
 Requirements:
@@ -12,19 +14,19 @@ Requirements:
 Software Environment:
 Enterprise Linux 7.4
 Configured with software from repos:
-epel, elrepo, rpmfusion and automyth_repo
+epel, elrepo, rpmfusion and custom rpms from automyth_repo
 
 
-mythtv-frontend-0.28.1 g36fe0ce  *reworked from rpmfusion version
+mythtv-frontend-0.28.2 g2d49bc1  from git fixes/0.28 *original spec reworked from previous 0.28.X rpmfusion version
 mythplugins: mytharchive,mythmusic,mythgallery,mythzoneminder
 OpenVPN
 Xfce4
-Chromium v61.0.3163.100 
-Firefox 52.5.1 
-Libreoffice 5.0.6.2
-Evolution 3.22.6
+Chromium 
+Firefox 
+Libreoffice 
+Evolution 
 kvm & virt-manager
-and other programs I've found useful for Desktop.
+and other programs.
 
 
 *If you plan on using libvirt/kvm host virtualization remember to mount a seperate /var during install on a seperate drive for best performance if you intend to use file based kvm/qemu clients.
@@ -43,6 +45,7 @@ passwd mythtv
 then remove entry "DenyUsers mythtv" from /etc/ssh/sshd_config
 
 
-*Note using this frontend image with automythserver requires a configured VPN server. 
-Configure (generate keys/certs as needed) your automythserver vpn prior to attempting to connect.
-The next release is slated to have static example certs installed between server and this client.
+*Note using this frontend image with automythserver aka amsvr-hdhr* requires a configured VPN server or "network enabled" mythtv server. 
+Configure (generate keys/certs as needed) your automythserver vpn prior to attempting to connect to a amsvr-hdhr or reconfigure amsvr mythtv-setup to network mode manually.
+A future release may have static example certs installed between server and this client, but not at this time.
+
