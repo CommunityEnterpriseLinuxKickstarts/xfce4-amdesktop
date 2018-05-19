@@ -7,7 +7,7 @@ r17 May-11-2018
 	- qt5-qtwebkit* used from epel-testing/until epel repo transition for qt5.9.X is completed
 		- removed gthumb (needs rebuild, has old dep)
 - changed rpm spec repo layout from localhost to external, prep for autobuilds
-- created/added new rpms gramps (geneology) and deps, osm-gps-map pyicu python3-pyicu pyexiv2
+- created/added new rpms gramps (genealogy) and deps, osm-gps-map pyicu python3-pyicu pyexiv2
 - created/added new rpm mythtv-streamzap-conf, sets up a new mapping/udev rule to act upon it, credits in rpm changelog
 - added quake3,openarena games from upstream repos
 - added hexchat,pidgin
