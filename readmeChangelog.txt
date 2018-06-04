@@ -1,4 +1,45 @@
 #xfce4-amdesktop changelog
+r19 June-01-2018
+- resync with upstream repos
+- restore kernel-headers rpm to default upstream no custom elrepo version
+- enable zfs, zfsonlinux and repo, using kABI-kmod
+- enable hw cert repos in install
+	- add lmbench, stress, dt
+- enable rpmfusion repos in install
+- added mythplugins: mytharchive,mythgallery,mythmusic,mythzoneminder
+	- associated yum fix, added exclusion to upstream repo config so that our *myth* versions are installed instead.
+		- used a quick fix for now in the cleanup section of live config, which only works after installed and after first boot.
+			- sed -i '7a\exclude=*myth*' /etc/yum.repos.d/rpmfusion-free-updates.repo
+- added negativo17 steam release from negativo17.org/steam
+	- added negativo17-steam-release repo rpm
+	- new steam steam rpm/added startup workaround for libxcb builtin
+- add ostree
+- add avidemux-qt
+- add gnucash
+- added kdenlive
+	- breeze-icon-theme
+- add phpmyadmin
+- add stellarium
+- add nux rpms hb/frozen-bubble and deps
+
+
+r18 May-29-2018
+- resync with upstream repos
+- increase liveimg size in liveconfig
+- simplify/easier image creation/remove large tmpdir req
+- add freerdp
+- add tuxpaint
+ 	- add new rpm tuxpaint-stamps
+- add tuxguitar new rpm
+- add tuxtype2 new rpm
+- add librecad
+- add new rpm qstat-1.15
+- add new rpm xqf-1.0.6.2 rebuilt against qstat-2.15 "/usr/bin/quakestat"
+- add games; extreme-tuxracer, supertuxkart, tremulous, chromium-bsu, gnuchess, warzone2100, tuxmath, tuxpuck
+	- add new rpm dep, SFML for etr
+	- add new rpm dep, libglpng for c-bsu
+	- add new rpm deps, wiiuse, angelscript for stk
+- add ntfsprogs,ntfs-3g
 
 r17 May-11-2018
 - resync with all upstream repos/upgrade to 7.5 
@@ -13,8 +54,6 @@ r17 May-11-2018
 - added hexchat,pidgin
 - htop
 - added rpm gnome-backgrounds with default black/default.png 
-
-
 
 
 r16 May-01-2018
