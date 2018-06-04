@@ -12,7 +12,7 @@ Requirements:
 
 
 Software Environment:
-Enterprise Linux 7.4
+Enterprise Linux 7.5
 Configured with software from repos:
 epel, elrepo, rpmfusion and custom rpms from automyth_repo
 
