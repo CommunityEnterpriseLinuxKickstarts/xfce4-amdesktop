@@ -3,7 +3,6 @@ https://sourceforge.net/projects/xfce4-amdesktop/
 
 
 
-
 Welcome to Xfce4-AMDesktop
 aka automyth-desktop
 
