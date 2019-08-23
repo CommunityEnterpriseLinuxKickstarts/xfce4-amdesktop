@@ -1,3 +1,8 @@
+THIS PROJECT IS DEPRECATED and NEEDS UPDATING TO 0.29.X
+
+
+
+
 More info and Latest ISO's are on SF at url:
 https://sourceforge.net/projects/xfce4-amdesktop/
 
